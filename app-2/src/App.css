@@ -22,3 +22,16 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.login {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.to-do {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
